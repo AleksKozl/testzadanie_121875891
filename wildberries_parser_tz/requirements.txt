@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-filter
+celery
+redis
+requests
+psycopg2
+gunicorn==21.2.0
+fake-useragent
